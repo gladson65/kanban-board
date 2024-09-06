@@ -2,7 +2,7 @@
   "name": "kanbanboard",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gladson65.github.io/kanbanBoard/",
+  "homepage": "https://gladson65.github.io/kanbanBoard",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
