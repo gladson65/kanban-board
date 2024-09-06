@@ -1,12 +1,13 @@
 {
   "name": "kanbanboard",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "homepage": "https://gladson65.github.io/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
