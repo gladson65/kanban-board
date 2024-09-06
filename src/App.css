@@ -1,0 +1,20 @@
+.stageSection{
+    background-image: url("./assets/back5.jpg");
+    background-size: contain;
+    padding-top: 20px;
+    
+}
+
+.taskStates {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-image: url("./assets/back1.jpg");
+    background-size: contain;
+}
+
+.toDo {
+    scrollbar-width: none;
+}
+
+/* drop area style */
+/* w-full bg-white h-32 rounded-xl mt-2 */
