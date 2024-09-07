@@ -1,6 +1,6 @@
 {
+  "homepage": "https://gladson65.github.io/KanbanBoard",
   "name": "kanbanboard",
-  "homepage": ".",
   "private": true,
   "version": "0.0.0",
   "type": "module",
